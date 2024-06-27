@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/Anirbanrohan/Technology-Lookup-Web-Application">
-      <img src="static/techno.ico" alt="Logo" width="80" height="80">
+      <img src="Spam-SMS-Classifier-Deployment-master/static/techno.ico" alt="Logo" width="80" height="80">
       <h3 align="center">Spam Classification</h3>
     </a>
   </p>
@@ -40,15 +40,15 @@
   This is a Machine Learning Project on spam classification.It consists of two pages home and result.In the home page you can type any message.It will predict whether it is a spam message or not.Then the result page will showing the result.
   
   ### Screenshot 1
-  ![](readme_resources/1.png)
+  ![](Spam-SMS-Classifier-Deployment-master/readme_resources/1.png)
   
   
   ### Video 1
-  ![](readme_resources/Notspam.mp4)
+  ![](Spam-SMS-Classifier-Deployment-master/readme_resources/Notspam.mp4)
   
   
   ### Video 2
-  ![](readme_resources/Spam.mp4)
+  ![](Spam-SMS-Classifier-Deployment-master/readme_resources/Spam.mp4)
   
   
   
