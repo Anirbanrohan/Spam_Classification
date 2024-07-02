@@ -42,12 +42,20 @@
   ![](Spam-SMS-Classifier-Deployment-master/readme_resources/1.png)
   
   
-  ### Video 1
-  ![](Spam-SMS-Classifier-Deployment-master/readme_resources/Notspam.mp4)
+  ### Screenshot 2
+  ![](Spam-SMS-Classifier-Deployment-master/readme_resources/2.png)
   
   
-  ### Video 2
-  ![](Spam-SMS-Classifier-Deployment-master/readme_resources/Spam.mp4)
+  ### Screenshot 3
+  ![](Spam-SMS-Classifier-Deployment-master/readme_resources/3.png)
+
+  ### Screenshot 4
+  ![](Spam-SMS-Classifier-Deployment-master/readme_resources/4.png)
+
+  ### Screenshot 5
+  ![](Spam-SMS-Classifier-Deployment-master/readme_resources/5.png)
+
+
   
   
   
